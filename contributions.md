@@ -24,5 +24,5 @@ following the same syntax.
 | Week #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
 |  2   | [link to contribution](https://github.com/stewartweiss/butterfly-network/blob/master/butterfly_edges.c)    | Project code    |   I wrote a program for the repository ....    |
-|     |     |     |      |
+| 3    | https://www.openstreetmap.org/changeset/80879014 https://www.openstreetmap.org/changeset/80965389 https://www.openstreetmap.org/changeset/80965297 https://www.openstreetmap.org/changeset/80964947 https://www.openstreetmap.org/changeset/80879876 https://www.openstreetmap.org/changeset/80879758 https://www.openstreetmap.org/changeset/80879151 https://www.openstreetmap.org/changeset/80879014| 8 edits to OpenStreetMap     | Updated business information, structure limits, and other details in Coney Island and Bensonhurst, Brooklyn, New York  |
 |     |     |     |      |
