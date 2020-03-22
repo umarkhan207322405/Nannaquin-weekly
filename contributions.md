@@ -36,4 +36,4 @@ following the same syntax.
 | 5(?) | [Added detail to Dyker Park Playground/General area.](https://www.openstreetmap.org/changeset/81741587) | OpenStreet Map feature | Added detail to Playground in Dyker Park |
 | 5(?) |  [Add Dyker Park Basketball Court and update Bocce Court info.](https://www.openstreetmap.org/changeset/81741489)| OpenStreet Map feature | Added Basket Ball Court and Updated Bocce Ball Court info in Dyker Park |
 |  8   |  [Town - Wikipedia](https://en.wikipedia.org/w/index.php?title=Town&oldid=946811224)   |  Wikipedia edit    |   Added a citation to a wikipedia page where it was needed. Very exciting to have contributed to the site.   |
-| 8 | [Languages of Switzerland](https://en.wikipedia.org/w/index.php?title=Languages_of_Switzerland&oldid=946826733)| Wikipedia edit | Addded a citation to another wikipedia page. |
+| 8 | [Languages of Switzerland](https://en.wikipedia.org/w/index.php?title=Languages_of_Switzerland&oldid=946826733)| Wikipedia edit | Added a citation to another wikipedia page. |
