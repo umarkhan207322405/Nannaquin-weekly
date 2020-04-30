@@ -38,3 +38,4 @@ following the same syntax.
 |  8   |  [Town - Wikipedia](https://en.wikipedia.org/w/index.php?title=Town&oldid=946811224)   |  Wikipedia edit    |   Added a citation to a wikipedia page where it was needed. Very exciting to have contributed to the site.   |
 | 8 | [Languages of Switzerland](https://en.wikipedia.org/w/index.php?title=Languages_of_Switzerland&oldid=946826733)| Wikipedia edit | Added a citation to another wikipedia page. |
 |10|[Godot PR #37589](https://github.com/godotengine/godot/pull/37589)| Project Documentation| Updated documentation to make reference of a relevant function. |
+|11/12|[Godot PR #38328](https://github.com/godotengine/godot/pull/38328)| Project Code | Made two functions return the values they were meant to return
